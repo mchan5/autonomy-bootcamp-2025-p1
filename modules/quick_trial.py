@@ -1,4 +1,3 @@
-
 """
 Runs colour detection on sample image.
 """
